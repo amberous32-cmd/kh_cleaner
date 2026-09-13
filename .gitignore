@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Конфиг (у каждого свой путь к папкам)
+kh_cleaner.config.json
+
+# Редакторы
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Прочее
+*.log
